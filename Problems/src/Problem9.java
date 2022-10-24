@@ -9,9 +9,6 @@ import java.nio.charset.StandardCharsets;
  */
 public class Problem9 {
 
-	public static void main(String[] args) {
-		System.out.println(isPalindrome(324));
-	}
 
 	public static boolean isPalindrome(int x) {
 
